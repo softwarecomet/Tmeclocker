@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cell_corner_radius">4dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="option_corner_radius">32dp</dimen>
+
+    <dimen name="height_main">60dp</dimen>
+    <dimen name="height_top">80dp</dimen>
+
+    <dimen name="text_small">10dp</dimen>
+    <dimen name="text_normal">14dp</dimen>
+    <dimen name="text_large">16dp</dimen>
+    <dimen name="text_x_large">20dp</dimen>
+    <dimen name="text_xx_large">32dp</dimen>
+
+    <dimen name="margin_micro">8dp</dimen>
+    <dimen name="margin_normal">18dp</dimen>
+    <dimen name="margin_medium">28dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_x_large">40dp</dimen>
+    <dimen name="margin_xx_large">48dp</dimen>
+
+    <dimen name="padding_normal">12dp</dimen>
+</resources>
